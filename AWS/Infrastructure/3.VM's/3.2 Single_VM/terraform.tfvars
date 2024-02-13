@@ -1,0 +1,11 @@
+vpc_name = ""
+profile = ""
+ami_id = ""
+vm_username = ""
+vm_user_password = ""
+key_pair_name = ""
+subnets = ""
+subnet_ids = ""
+instance_name = ""
+instance_type = ""
+extra_disk_size = 60

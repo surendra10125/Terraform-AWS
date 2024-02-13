@@ -1,0 +1,9 @@
+vpc_name = ""
+ami_id = ""
+subnets = ["","",""]
+subnet_ids = ["","",""]
+instance_names = ["","",""]
+instance_type = ["",""]
+vm_username = ""
+vm_user_password = ""
+key_pair_name = ""
